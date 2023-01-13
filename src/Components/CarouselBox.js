@@ -1,7 +1,6 @@
 import React, { Component} from "react";
 import Carousel  from "react-bootstrap/Carousel";
 import SpevakMenu from "../assets/SpevakMenu.jpg";
-
 import SpevakMenu3 from "../assets/SpevakMenu3.jpg";
 
 export default class CarouselBox extends Component {

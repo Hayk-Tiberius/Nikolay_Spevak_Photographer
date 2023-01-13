@@ -5,7 +5,7 @@ import logo from "./SpevakLogo.png";
 import Main from "../Pages/Main.js";
 import Portfolio from "../Pages/Portfolio.js";
 import Photo from "../Pages/Photo.js";
-import Contacs from "../Pages/Contacs.js";
+import Contacs from "../Pages/Contacts/Contacs.js";
 
 export default class Header extends Component {
     render() {
